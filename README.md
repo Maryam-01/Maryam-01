@@ -146,7 +146,7 @@ I’m currently focused on improving my skills in:
 
 ## 📫 Connect With Me
 
-- [LinkedIn]([your-linkedin-url-here](https://www.linkedin.com/in/maryam-ahmed-9672a7180/)
+- [LinkedIn](https://www.linkedin.com/in/maryam-ahmed-9672a7180/)
 
 ---
 
