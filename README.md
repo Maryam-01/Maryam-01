@@ -1,6 +1,6 @@
 # Hi, I'm Maryam 👋
 
-## Data Engineer | Data Analyst | MSc Data Science
+## Data Engineer | MSc Data Science
 
 I’m an aspiring data engineer with a background in **Clinical Pharmacology** and a strong interest in building reliable, scalable data systems.
 
