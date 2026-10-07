@@ -2,52 +2,19 @@
 
 ## Data Engineer | MSc Data Science
 
-I’m an aspiring data engineer with a background in **Clinical Pharmacology** and a strong interest in building reliable, scalable data systems.
+I’m a Junior Data Engineer with a background in **Clinical Pharmacology** and a strong interest in building reliable, scalable data systems.
 
 My experience in scientific and clinical research has helped me develop a careful, analytical approach to problem-solving, data quality, and evidence-based decision-making. I’m now applying that mindset to **data engineering, cloud infrastructure, analytics, and machine learning**.
 
 ---
 
-## 🔧 Tech Stack
+## 🎓 Background
 
-### Languages & Data
-- Python
-- SQL
-- PostgreSQL
-- Pandas
+- **Data Engineering, AI & Machine Learning Bootcamp** — Northcoders
+- **MSc Data Science** — Loughborough University
+- Background in **Clinical Pharmacology**
 
-### Data Engineering
-- ETL/ELT pipelines
-- Data modelling
-- Data warehousing
-- Star-schema design
-- Parquet data storage
-
-### Cloud & Infrastructure
-- AWS S3
-- AWS Lambda
-- AWS RDS
-- AWS Glue
-- AWS Step Functions
-- AWS CloudWatch
-- Terraform
-
-### Development Practices
-- Git & GitHub
-- GitHub Actions
-- CI/CD
-- pytest
-- Test-driven development
-- Integration testing
-
-### APIs & Machine Learning
-- FastAPI
-- REST APIs
-- Machine learning
-- NLP
-- Embeddings
-- Transformers
-- Retrieval-Augmented Generation
+My academic and clinical background has given me a strong foundation in analytical thinking, working with structured information, understanding complex systems, and approaching problems with accuracy and attention to detail.
 
 ---
 
@@ -118,15 +85,6 @@ The project explores how machine learning and large language models can be used 
 
 This project developed my understanding of NLP pipelines, embeddings, semantic search, and how retrieval can improve LLM-generated outputs.
 
----
-
-## 🎓 Background
-
-- **Data Engineering, AI & Machine Learning Bootcamp** — Northcoders
-- **MSc Data Science** — Loughborough University
-- Background in **Clinical Pharmacology**
-
-My academic and clinical background has given me a strong foundation in analytical thinking, working with structured information, understanding complex systems, and approaching problems with accuracy and attention to detail.
 
 ---
 
