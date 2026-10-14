@@ -75,7 +75,7 @@ The project explores how machine learning and large language models can be used 
 
 **Key features include:**
 
-- Built a news/topic classification model using **TF-IDF** and **Logistic Regression**
+- Built a news/topic classification model using **Logistic Regression**
 - Used **Sentence Transformer embeddings** for semantic similarity search
 - Implemented a retrieval step to support a **RAG workflow**
 - Generated responses using **TinyLlama**
