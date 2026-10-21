@@ -21,7 +21,7 @@ My academic and clinical background has given me a strong foundation in analytic
 ## 🚀 Projects
 
 ### 1. AWS Data Engineering Pipeline  
-**Repository:** `de-final-project`
+**Repository:** `de-final-project` https://github.com/Maryam-01/de-project
 
 A cloud-based data engineering project designed to ingest, transform, and load data using **Python, PostgreSQL, AWS, and Terraform**.
 
@@ -44,7 +44,7 @@ This project strengthened my understanding of cloud-native data engineering, inc
 ---
 
 ### 2. REST API & AWS Deployment  
-**Repository:** `portfolio_1`
+**Repository:** `portfolio_1` https://github.com/Maryam-01/portfolio_1
 
 A backend API project built with **FastAPI** and **PostgreSQL**, focused on managing users, venues, events, and RSVPs.
 
@@ -67,7 +67,7 @@ This project helped me connect backend development with data engineering concept
 ---
 
 ### 3. News Classification & RAG Chatbot  
-**Repository:** `topic-labeled-news-dataset`
+**Repository:** `news-topic-chatbot` https://github.com/Maryam-01/news-topic-chatbot
 
 An NLP and generative AI project combining **text classification, semantic search, retrieval-augmented generation, and LLM-based responses**.
 
