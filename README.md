@@ -1,6 +1,6 @@
 # Hi, I'm Maryam 👋
 
-## Data Engineer | MSc Data Science
+## Junior Data Engineer 
 
 I’m a Junior Data Engineer with a background in **Clinical Pharmacology** and a strong interest in building reliable, scalable data systems.
 
@@ -26,20 +26,6 @@ My academic and clinical background has given me a strong foundation in analytic
 A cloud-based data engineering project designed to ingest, transform, and load data using **Python, PostgreSQL, AWS, and Terraform**.
 
 This project was originally completed as part of a collaborative Northcoders Data Engineering Bootcamp project and gave me hands-on experience across the full lifecycle of a modern data pipeline.
-
-**Key features include:**
-
-- Built Python-based ingestion and transformation processes
-- Used AWS services including **S3, Lambda, Step Functions, CloudWatch, and SNS**
-- Stored raw and processed data in **Parquet format**
-- Designed a PostgreSQL data warehouse using a **star-schema model**
-- Managed cloud infrastructure with **Terraform**
-- Added automated testing using **pytest**
-- Implemented monitoring and alerting for pipeline failures
-
-**What I learned:**
-
-This project strengthened my understanding of cloud-native data engineering, including orchestration, infrastructure-as-code, data modelling, automated testing, and production-style monitoring.
 
 ---
 
