@@ -41,21 +41,6 @@ A backend API project built with **FastAPI** and **PostgreSQL**, focused on mana
 
 An NLP and generative AI project combining **text classification, semantic search, retrieval-augmented generation, and LLM-based responses**.
 
-The project explores how machine learning and large language models can be used to classify text, retrieve relevant context, and generate more informed responses.
-
-**Key features include:**
-
-- Built a news/topic classification model using **Logistic Regression**
-- Used **Sentence Transformer embeddings** for semantic similarity search
-- Implemented a retrieval step to support a **RAG workflow**
-- Generated responses using **TinyLlama**
-- Explored practical NLP techniques for classification, retrieval, and generation
-
-**What I learned:**
-
-This project developed my understanding of NLP pipelines, embeddings, semantic search, and how retrieval can improve LLM-generated outputs.
-
-
 ---
 
 ## 🌱 Currently Developing
