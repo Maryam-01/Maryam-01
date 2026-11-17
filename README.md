@@ -34,22 +34,6 @@ This project was originally completed as part of a collaborative Northcoders Dat
 
 A backend API project built with **FastAPI** and **PostgreSQL**, focused on managing users, venues, events, and RSVPs.
 
-The project gave me experience designing a database-backed application and deploying cloud infrastructure to support it.
-
-**Key features include:**
-
-- Developed REST API endpoints using **FastAPI**
-- Designed relational database functionality with **PostgreSQL**
-- Implemented user authentication and JWT-based authorisation
-- Added event and RSVP management functionality
-- Created organiser-focused features for viewing event attendance data
-- Wrote automated tests using **pytest**
-- Used **Terraform** to define AWS infrastructure
-
-**What I learned:**
-
-This project helped me connect backend development with data engineering concepts, including schema design, API-driven data access, authentication, testing, and deployment.
-
 ---
 
 ### 3. News Classification & RAG Chatbot  
@@ -78,19 +62,7 @@ This project developed my understanding of NLP pipelines, embeddings, semantic s
 
 I’m currently focused on improving my skills in:
 
-- Cloud-based data engineering
-- AWS architecture
 - ETL and ELT pipeline design
-- Data warehousing
-- Infrastructure as Code
-- Machine learning and NLP
-- Generative AI and RAG applications
-
----
-
-## 📫 Connect With Me
-
-- (https://www.linkedin.com/in/maryam-ahmed-9672a7180/)
 
 ---
 
